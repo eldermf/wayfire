@@ -30,5 +30,4 @@ So clone this repository and start the sequential installation of the scripts.
 
 ![Screenshot_2023-07-26-23-14-08_8656](https://github.com/eldermf/wayfire/assets/13444013/84dee55e-c03f-4772-96c7-c1397cfbc333)
 
-![Screenshot_2023-07-26-23-09-57_5298](https://github.com/eldermf/wayfire/assets/13444013/dc2444a5-93ab-4239-8917-3b4e76c8829c)
-
+https://github.com/eldermf/wayfire/assets/13444013/49248c48-fefa-4811-9340-778d0c991e90
