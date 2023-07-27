@@ -15,13 +15,13 @@ layer=top
 term=foot
 
 ## Geometry
-width=900px
-height=415px
+width=1100px
+height=430px
 location=0
 #xoffset=10
 #yoffset=10
 #lines=8
-columns=2
+columns=3
 orientation=vertical
 halign=fill
 #valign=center
