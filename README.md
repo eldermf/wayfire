@@ -58,6 +58,6 @@ https://github.com/eldermf/wayfire/assets/13444013/49248c48-fefa-4811-9340-778d0
 
 ## Special thanks
 
-> Archcraft: [_https://github.com/archcraft-os_](https://github.com/archcraft-os). For being able to learn more about how scripts work.
+> Archcraft: [_https://github.com/archcraft-os_](https://github.com/archcraft-os). For being able to learn more about how scripts work and be a very beautiful system
 
 > Arcolinux: [_https://arcolinux.com_](https://arcolinux.com). Due to the promptness and wisdom of Mr. Erick Dubois and collaborators in maintaining a system that teaches how to use Arch Linux.
