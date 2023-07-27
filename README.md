@@ -54,3 +54,8 @@ The layout keyboard:
 
 
 https://github.com/eldermf/wayfire/assets/13444013/49248c48-fefa-4811-9340-778d0c991e90
+
+
+## Special thanks
+
+> Archcraft: [_here_](https://github.com/archcraft-os). For being able to learn more about how scripts work.
